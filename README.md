@@ -15,7 +15,6 @@ O Simplificar-BD é um projeto desenvolvido com o objetivo de simplificar opera�
 ## 🛠️ Tecnologias Utilizadas
 
 - SQL
-- [Adicionar tecnologias utilizadas]
 - Git & GitHub
 
 ## 📂 Estrutura do Projeto
